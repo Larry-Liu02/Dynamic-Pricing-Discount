@@ -10,5 +10,5 @@ This repository contains the dataset for the Dynamic-Pricing-Discount project. T
 ## Usage
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Dynamic-Pricing-Discount.git
+   git clone https://github.com/Larry-Liu02/Dynamic-Pricing-Discount.git
 
